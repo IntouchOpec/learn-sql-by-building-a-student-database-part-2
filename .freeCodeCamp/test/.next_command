@@ -2,3 +2,5 @@ echo -e "\n~~ My Computer Science Students ~~\n" >> student_info.sh
 echo -e "\n~~ My Computer Science Students ~~\n"
 __vsc_prompt_cmd_original
 ./student_info.sh
+./student_info.sh
+psql --username=freecodecamp --dbname=students
