@@ -72,3 +72,5 @@ echo -e "echo "\nList of unique courses, in reverse alphabetical order, that no 
 echo -e "echo "\nList of unique courses, in reverse alphabetical order, that no student or 'Obie Hilpert' is taking:"" >> student_info.sh
 __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=students
+psql --username=freecodecamp --dbname=students
+psql --username=freecodecamp --dbname=students
