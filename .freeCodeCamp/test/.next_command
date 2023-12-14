@@ -1,0 +1,2 @@
+echo -e "\n~~ My Computer Science Students ~~\n" >> student_info.sh
+echo -e "\n~~ My Computer Science Students ~~\n"
