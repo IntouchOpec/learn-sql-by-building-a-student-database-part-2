@@ -74,3 +74,4 @@ __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
+psql --username=freecodecamp --dbname=students
