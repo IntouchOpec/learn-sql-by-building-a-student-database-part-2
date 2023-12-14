@@ -81,3 +81,5 @@ psql --username=freecodecamp --dbname=students
 ./student_info.sh
 git status
 git add .
+git commit -m "completing Learn SQL by Building a Student Database: Part 2"
+git push
