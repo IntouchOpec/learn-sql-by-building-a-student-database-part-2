@@ -68,3 +68,4 @@ psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 ./student_info.sh
+echo -e "echo "\nList of unique courses, in reverse alphabetical order, that no student or 'Obie Hilpert' is taking:"" >> student_info.sh
